@@ -2,7 +2,7 @@
 
 FDM universal mount for the HDZero antenna bundled with the Freestyle VTX
 
-![Rendering](Render1.jpg)
+![Rendering](Render01.jpg)
 
 # Tips:
 
